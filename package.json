@@ -1,0 +1,23 @@
+{
+  "name": "file-metadata",
+  "version": "1.0.0",
+  "description": "A simple API to return the file size",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abialbon/fcc-filemetadata.git"
+  },
+  "keywords": [
+    "metadata",
+    "fcc"
+  ],
+  "author": "Abialbon Paul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abialbon/fcc-filemetadata/issues"
+  },
+  "homepage": "https://github.com/abialbon/fcc-filemetadata#readme"
+}
