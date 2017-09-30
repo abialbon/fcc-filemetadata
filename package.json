@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/abialbon/fcc-filemetadata/issues"
   },
-  "homepage": "https://github.com/abialbon/fcc-filemetadata#readme"
+  "homepage": "https://github.com/abialbon/fcc-filemetadata#readme",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
 }
